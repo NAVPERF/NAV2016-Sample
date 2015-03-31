@@ -1,0 +1,17 @@
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Nav.UserSession.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Nav.UserSession.pdb
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Framework.UI.Client.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Framework.UI.Client.Net40.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Json.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Server.Common.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\obj\Debug\Microsoft.Dynamics.Nav.UserSession.csprojResolveAssemblyReference.cache
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\obj\Debug\Microsoft.Dynamics.Nav.UserSession.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2013r2\Microsoft.Dynamics.Nav.UserSession\obj\Debug\Microsoft.Dynamics.Nav.UserSession.pdb
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Nav.UserSession.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Nav.UserSession.pdb
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Framework.UI.Client.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Microsoft.Dynamics.Framework.UI.Client.Net40.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\bin\Debug\Newtonsoft.Json.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\obj\Debug\Microsoft.Dynamics.Nav.UserSession.csprojResolveAssemblyReference.cache
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\obj\Debug\Microsoft.Dynamics.Nav.UserSession.dll
+C:\Users\freddyk\Documents\Visual Studio 2013\Projects\Perf2015\Microsoft.Dynamics.Nav.UserSession\obj\Debug\Microsoft.Dynamics.Nav.UserSession.pdb

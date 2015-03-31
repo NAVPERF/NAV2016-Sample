@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Microsoft.Dynamics.Nav.LoadTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NAVClientService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/NAV/WebClient/cs</Value>
+    </Setting>
+    <Setting Name="NAVUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;username&gt;</Value>
+    </Setting>
+    <Setting Name="NAVUserPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&lt;password&gt;</Value>
+    </Setting>
+    <Setting Name="UseWindowsAuthentication" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
